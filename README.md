@@ -10,10 +10,10 @@ If you like it, plz start this repo XDDDD
 2. `pip install -r requirements_2020.txt`
 	* Do not upgrade wxPython to 4.1.0 or higher, gui will crash. If you want to upgrade it, plz debug by yourself
 3. if you want to build to exe
-	`pyinstaller -F --icon=icon.ico -w .\csys_helper.py`
+	`pyinstaller -F --icon=icon2020.ico -w .\csys_helper.py`
 
 ## Current Version
-v0.1.8
+v0.1.8.2
 ## Change Log
 * 2018/08/08 v0.1 Alpha 1
     ```
